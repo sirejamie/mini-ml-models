@@ -1,6 +1,6 @@
 # Mini ML Models
 
-Welcome! This is a collection of custom supervised machine learning models including both regression and classification models.
+Welcome! Mini ML Models is a collection of custom supervised machine learning models, including  regression and classification models.
 
 ## Models
 
@@ -9,7 +9,7 @@ Welcome! This is a collection of custom supervised machine learning models inclu
 
 ## Datasets
 
-Not all datasets in this repository contain actual data collected in the real world. Some are just for testing purrposes and you can find the sources for the datasets in the [Models](#models) section.
+Not all datasets in this repository contain real or accurate data. Some are for testing purposes and you can find their sources in the [Models](#models) section.
 
 ## References
 
