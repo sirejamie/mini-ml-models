@@ -1,11 +1,11 @@
 # Mini ML Models
 
-Welcome! Mini ML Models is a collection of custom supervised machine learning models, including regression and classification models.
+Welcome! Mini ML Models is a collection of custom supervised machine learning models, including regression and classification models. This was made just for my personal experimentation with machine learning!
 
 ## Models
 
 * Linear Regression
-* Multiple Linear Regression
+* Multiple Linear Regression (soon!)
 
 ## Datasets
 
