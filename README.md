@@ -16,6 +16,10 @@ Not all datasets in this repository contain real or accurate data, some are for 
 * [Machine Learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 * [Machine Learning - Google Developers](https://developers.google.com/machine-learning/crash-course/linear-regression)
 
+## Inspirations
+
+* sklearn!
+
 ## License
 
 [MIT](./LICENSE)
